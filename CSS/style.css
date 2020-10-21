@@ -19,7 +19,7 @@ a{
 }
 
 .hero{
-    padding: 50px 0 200px;
+    padding: 20px 0 200px;
     text-align: center;
     background: black;
     font-family: 'Domine', sans-serif;
@@ -27,14 +27,14 @@ a{
 
 }
 .hero-img{
-    width: 400px;
+    width: 360px;
 
 }
 .my-link{
-    margin-top: 25px;
+    margin-top: 20px;
 }
 h1{
-    font-size: 60px;
+    font-size: 45px;
     background: -webkit-linear-gradient(#a761e7 40%, #d00c78 60%);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -52,7 +52,7 @@ a, a > span {
     position: relative;
     color: inherit;
     text-decoration: none;
-    line-height: 24px;
+
 }
 a:before, a:after, a > span:before, a > span:after {
     content: '';
